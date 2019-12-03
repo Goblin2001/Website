@@ -2369,6 +2369,13 @@ input, select, textarea {
 				background: #3d4249 url("images/overlay.png");
 			}
 
+            /*myFooter CSS*/
+
+            .myFooter {
+                text-align:center;
+                position:relative;
+            }
+
 /* Copyright */
 
 	#copyright {
